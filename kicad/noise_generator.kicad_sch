@@ -2572,7 +2572,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100k"
 			(at 128.778 111.76 90)
 			(effects
 				(font
@@ -2714,7 +2714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W10.16mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
 			(at 129.54 90.17 0)
 			(effects
 				(font
